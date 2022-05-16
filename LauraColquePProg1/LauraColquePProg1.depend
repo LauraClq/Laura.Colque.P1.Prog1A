@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652705985 source:c:\users\laura\desktop\pp_prog1\lauracolquepprog1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
